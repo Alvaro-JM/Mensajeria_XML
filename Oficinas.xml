@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<oficinasXML>
+	<oficinas>
+		<oficina>
+			<id_oficina>0</id_oficina>
+			<direccion_oficina>direccion</direccion_oficina>
+			<telefono_oficina>telefono</telefono_oficina>
+			<email>email</email>
+			<encargado>encargado</encargado>
+			<empresa>0</empresa>
+			<activo>false</activo>
+		</oficina>
+		<oficina>
+			<id_oficina>1</id_oficina>
+			<direccion_oficina>Arabial 32, Granada</direccion_oficina>
+			<telefono_oficina>958123213</telefono_oficina>
+			<email>mrw-arabial@correo.com</email>
+			<encargado>Fernando Pérez</encargado>
+			<empresa>1</empresa>
+			<activo>true</activo>
+		</oficina>
+		<oficina>
+			<id_oficina>2</id_oficina>
+			<direccion_oficina>Gran vía 57, Granada</direccion_oficina>
+			<telefono_oficina>958474774</telefono_oficina>
+			<email>granada-granvia@ups.com</email>
+			<encargado>Andrés López</encargado>
+			<empresa>2</empresa>
+			<activo>true</activo>
+		</oficina>
+		<oficina
+			><id_oficina>3</id_oficina>
+			<direccion_oficina>Avda Europa 12, Salamanca</direccion_oficina>
+			<telefono_oficina>984323632</telefono_oficina>
+			<email>salamanca-europa@ups.com</email>
+			<encargado>Benjamín Solano</encargado>
+			<empresa>2</empresa>
+			<activo>true</activo>
+		</oficina>
+	</oficinas>
+</oficinasXML>
